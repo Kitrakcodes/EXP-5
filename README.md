@@ -1,5 +1,14 @@
-<img width="397" height="466" alt="image" src="https://github.com/user-attachments/assets/0b78d9f9-c07d-42bc-8489-56d7fb4c791b" />
-<img width="439" height="433" alt="image" src="https://github.com/user-attachments/assets/2a814eed-39c0-4548-837a-b895912c9186" />
-<img width="386" height="492" alt="image" src="https://github.com/user-attachments/assets/ab776b9a-bc65-41d8-8fbf-aa2896bc9031" />
-<img width="359" height="433" alt="image" src="https://github.com/user-attachments/assets/14d2275a-b0ad-4c28-a28d-f2ced45ad251" />
-<img width="365" height="530" alt="image" src="https://github.com/user-attachments/assets/0d15b917-3029-440a-8876-e6cde4a15f0c" />
+Experiment 5.1 (Loading + Dashboard)
+<img width="1031" height="573" alt="image" src="https://github.com/user-attachments/assets/d737eec5-f82f-4dbb-8760-9b4d4115a9eb" />
+
+<img width="1033" height="558" alt="image" src="https://github.com/user-attachments/assets/69863443-9ca0-4269-a9c5-dd1a773a8eea" />
+
+Experiment 5.2 (Home/About/Contact + Loading)
+<img width="1042" height="528" alt="image" src="https://github.com/user-attachments/assets/3f2eed8e-0f26-4835-8227-80e2a977b0a4" />
+<img width="1041" height="488" alt="image" src="https://github.com/user-attachments/assets/63f7ebbf-01d5-4bde-b129-b7bb4d6fbed0" />
+<img width="1042" height="506" alt="image" src="https://github.com/user-attachments/assets/c27e1672-f399-4fd4-a64a-1f35272a4900" />
+<img width="1037" height="483" alt="image" src="https://github.com/user-attachments/assets/b631f09e-5b23-470b-968b-aa5b152d522a" />
+
+
+
+
